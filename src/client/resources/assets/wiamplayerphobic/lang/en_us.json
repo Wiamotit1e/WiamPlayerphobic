@@ -1,0 +1,9 @@
+{
+  "text.autoconfig.wiamplayerphobic.title": "WiamPlayerphobic Settings",
+  "text.autoconfig.wiamplayerphobic.option.isEnabled": "Mod Enabled",
+  "text.autoconfig.wiamplayerphobic.option.action": "Action to Perform",
+  "text.autoconfig.wiamplayerphobic.option.distance": "Detection Distance",
+  "text.autoconfig.wiamplayerphobic.option.soundVolume": "Sound Volume",
+  "text.autoconfig.wiamplayerphobic.option.players": "Excluded Players",
+  "text.wiamplayerphobic.autologgoff": "Automatically disconnected due to player %s being too close"
+}

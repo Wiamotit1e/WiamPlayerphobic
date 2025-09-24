@@ -1,0 +1,30 @@
+{
+  "id": "wiamplayerphobic",
+  "version": "1.0.0",
+  "name": "WiamPlayerphobic",
+  "schemaVersion": 1,
+  "description": "Say thanks to Wiamotit1e, the most angelic and glorious author!!",
+  "authors": ["Wiamotit1e"],
+
+  "entrypoints": {
+    "client": [
+      "wiam.wiamplayerphobic.client.WiamplayerphobicClient"
+    ],
+    "modmenu": [
+      "wiam.wiamplayerphobic.client.config.ModMenuCompat"
+    ]
+  },
+  "mixins": [
+    "wiamplayerphobic.client.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.10",
+    "fabric-language-kotlin": "*",
+    "fabric": "*",
+    "minecraft": "~1.21.7",
+    "cloth-config": "*"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}
