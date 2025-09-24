@@ -4,7 +4,6 @@ import net.minecraft.client.MinecraftClient
 import net.minecraft.client.sound.PositionedSoundInstance
 import net.minecraft.sound.SoundEvents
 import net.minecraft.text.Text
-import net.minecraft.util.Formatting
 
 object ClientUtils {
     var pitch = 1.0f
