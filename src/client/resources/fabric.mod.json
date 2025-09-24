@@ -21,7 +21,7 @@
     "fabricloader": ">=0.15.10",
     "fabric-language-kotlin": "*",
     "fabric": "*",
-    "minecraft": "~1.21.7",
+    "minecraft": "~1.21",
     "cloth-config": "*"
   },
   "suggests": {
